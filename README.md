@@ -25,6 +25,7 @@ in which everyone is connected and updated.
 
 <h3>Use The Project</h3>
 <ul>
+ <li>Don't forget to Give a star to the project</li>
 <li>Clone/Fork the repository</li>
 <li>Select and open the File "Query to Create DATABASE.sql" and Paste the script in your SQL SERVER </l1>
 <li>All Data Insertion Queries are also given so just copy and paste the scripts and enjoy</li>
