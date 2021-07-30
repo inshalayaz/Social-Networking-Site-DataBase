@@ -1,0 +1,2 @@
+totalGroupFollowers(@groupId INT)  // To calculate total followers
+calculate_friends(@userId INT)     // To calculate total friends of a particular user

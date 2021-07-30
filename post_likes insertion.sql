@@ -1,0 +1,299 @@
+INSERT INTO post_likes VALUES(2,11);
+
+
+INSERT INTO post_likes VALUES(88,17);
+
+
+INSERT INTO post_likes VALUES(8,37);
+
+
+INSERT INTO post_likes VALUES(95,49);
+
+
+INSERT INTO post_likes VALUES(110,25);
+
+
+INSERT INTO post_likes VALUES(115,49);
+
+
+INSERT INTO post_likes VALUES(70,5);
+
+
+INSERT INTO post_likes VALUES(146,21);
+
+
+INSERT INTO post_likes VALUES(43,9);
+
+
+INSERT INTO post_likes VALUES(40,38);
+
+
+INSERT INTO post_likes VALUES(138,39);
+
+
+INSERT INTO post_likes VALUES(93,7);
+
+
+INSERT INTO post_likes VALUES(67,16);
+
+
+INSERT INTO post_likes VALUES(79,21);
+
+
+INSERT INTO post_likes VALUES(94,5);
+
+
+INSERT INTO post_likes VALUES(174,17);
+
+
+INSERT INTO post_likes VALUES(23,27);
+
+
+INSERT INTO post_likes VALUES(70,3);
+
+
+INSERT INTO post_likes VALUES(92,49);
+
+
+INSERT INTO post_likes VALUES(133,37);
+
+
+INSERT INTO post_likes VALUES(40,50);
+
+
+INSERT INTO post_likes VALUES(182,6);
+
+
+INSERT INTO post_likes VALUES(112,3);
+
+
+INSERT INTO post_likes VALUES(137,37);
+
+
+INSERT INTO post_likes VALUES(164,6);
+
+
+INSERT INTO post_likes VALUES(43,23);
+
+
+INSERT INTO post_likes VALUES(110,0);
+
+
+INSERT INTO post_likes VALUES(12,42);
+
+
+INSERT INTO post_likes VALUES(77,31);
+
+
+INSERT INTO post_likes VALUES(39,20);
+
+
+INSERT INTO post_likes VALUES(92,5);
+
+
+INSERT INTO post_likes VALUES(64,30);
+
+
+INSERT INTO post_likes VALUES(151,46);
+
+
+INSERT INTO post_likes VALUES(24,18);
+
+
+INSERT INTO post_likes VALUES(2,32);
+
+
+INSERT INTO post_likes VALUES(149,35);
+
+
+INSERT INTO post_likes VALUES(187,50);
+
+
+INSERT INTO post_likes VALUES(199,46);
+
+
+INSERT INTO post_likes VALUES(153,13);
+
+
+INSERT INTO post_likes VALUES(116,23);
+
+
+INSERT INTO post_likes VALUES(12,30);
+
+
+INSERT INTO post_likes VALUES(195,29);
+
+
+INSERT INTO post_likes VALUES(83,34);
+
+
+INSERT INTO post_likes VALUES(138,32);
+
+
+INSERT INTO post_likes VALUES(128,43);
+
+
+INSERT INTO post_likes VALUES(30,5);
+
+
+INSERT INTO post_likes VALUES(148,43);
+
+
+INSERT INTO post_likes VALUES(185,46);
+
+
+INSERT INTO post_likes VALUES(72,22);
+
+
+INSERT INTO post_likes VALUES(28,25);
+
+
+INSERT INTO post_likes VALUES(18,4);
+
+
+INSERT INTO post_likes VALUES(103,26);
+
+
+INSERT INTO post_likes VALUES(83,3);
+
+
+INSERT INTO post_likes VALUES(161,38);
+
+
+INSERT INTO post_likes VALUES(118,23);
+
+
+INSERT INTO post_likes VALUES(106,30);
+
+
+INSERT INTO post_likes VALUES(112,38);
+
+
+INSERT INTO post_likes VALUES(17,11);
+
+
+INSERT INTO post_likes VALUES(17,22);
+
+
+INSERT INTO post_likes VALUES(192,22);
+
+
+INSERT INTO post_likes VALUES(192,41);
+
+
+INSERT INTO post_likes VALUES(19,22);
+
+
+INSERT INTO post_likes VALUES(180,47);
+
+
+INSERT INTO post_likes VALUES(12,41);
+
+
+INSERT INTO post_likes VALUES(25,5);
+
+
+INSERT INTO post_likes VALUES(62,49);
+
+
+INSERT INTO post_likes VALUES(7,7);
+
+
+INSERT INTO post_likes VALUES(88,7);
+
+
+INSERT INTO post_likes VALUES(23,29);
+
+
+INSERT INTO post_likes VALUES(79,49);
+
+
+INSERT INTO post_likes VALUES(80,43);
+
+
+INSERT INTO post_likes VALUES(64,17);
+
+
+INSERT INTO post_likes VALUES(80,17);
+
+
+INSERT INTO post_likes VALUES(59,43);
+
+
+INSERT INTO post_likes VALUES(88,23);
+
+
+INSERT INTO post_likes VALUES(191,2);
+
+
+INSERT INTO post_likes VALUES(127,17);
+
+
+INSERT INTO post_likes VALUES(106,38);
+
+
+INSERT INTO post_likes VALUES(190,17);
+
+
+INSERT INTO post_likes VALUES(179,11);
+
+
+INSERT INTO post_likes VALUES(126,15);
+
+
+INSERT INTO post_likes VALUES(110,46);
+
+
+INSERT INTO post_likes VALUES(172,34);
+
+
+INSERT INTO post_likes VALUES(118,41);
+
+
+INSERT INTO post_likes VALUES(142,19);
+
+
+INSERT INTO post_likes VALUES(64,46);
+
+
+INSERT INTO post_likes VALUES(140,32);
+
+
+INSERT INTO post_likes VALUES(108,32);
+
+
+INSERT INTO post_likes VALUES(118,33);
+
+
+INSERT INTO post_likes VALUES(140,22);
+
+
+INSERT INTO post_likes VALUES(20,49);
+
+
+INSERT INTO post_likes VALUES(27,7);
+
+
+INSERT INTO post_likes VALUES(168,23);
+
+
+INSERT INTO post_likes VALUES(164,17);
+
+
+INSERT INTO post_likes VALUES(93,16);
+
+
+INSERT INTO post_likes VALUES(194,3);
+
+
+INSERT INTO post_likes VALUES(47,22);
+
+
+INSERT INTO post_likes VALUES(82,20);
+
+
+INSERT INTO post_likes VALUES(173,14);
+
+
+INSERT INTO post_likes VALUES(82,1);
+
