@@ -18,12 +18,14 @@ groups to stay tuned, users may also follow some groups for seeking
 information according to their concern, users can also like or post any
 material they liked. Basically the SNS turned this world into a global village
 in which everyone is connected and updated.
-<br>
-![alt text](https://github.com/inshalayaz/Social-Networking-Site-DataBase/blob/main/ERD.png?raw=true)
+<br/>
+
+
+![ERD](https://github.com/inshalayaz/Social-Networking-Site-DataBase/blob/main/ERD.png?raw=true)
 
 <h3>Use The Project</h3>
 <ul>
-<l1>Clone/Fork the repository</l1>
+<li>Clone/Fork the repository</li>
 <li>Select and open the File "Query to Create DATABASE.sql" and Paste the script in your SQL SERVER </l1>
 <li>All Data Insertion Queries are also given so just copy and paste the scripts and enjoy</li>
 </ul>
